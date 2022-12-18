@@ -6,3 +6,9 @@
 
 # How it works
 1. If you enter http://localhost:8080/hello, HelloController.java returns hello.
+
+# Version
+## Java
+11.0.13
+## Spring Boot
+2.7.6
